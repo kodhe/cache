@@ -29,7 +29,7 @@ composer require kodhe/cache
 ### Requirements
 
 - PHP >= 8.1
-- kodhe/driver ^1.0
+- kodhe/driver ^1.0 || ^2.0
 
 ### Optional Extensions
 
